@@ -5674,7 +5674,7 @@
       "maxzoom": 5,
       "minzoom": 0,
       "tiles": [
-        "https://www.unvt-test.com:3000/osm-s/{z}/{x}/{y}.pbf"
+        "https://www.unvt-test.com:3000/osm-s/osm-s/{z}/{x}/{y}.pbf"
       ],
       "type": "vector"
     },
@@ -5692,7 +5692,7 @@
       "maxzoom": 4,
       "minzoom": 0,
       "tiles": [
-        "https://www.unvt-test.com:3000/un-s/{z}/{x}/{y}.pbf"
+        "https://www.unvt-test.com:3000/un-s/un-s/{z}/{x}/{y}.pbf"
       ],
       "type": "vector"
     }
